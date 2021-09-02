@@ -1,7 +1,7 @@
 # LMS-in-C
 <h4></h4>
-A Library Management System coded in C for my first semester cse project.
-Requirements :
+A Library Management System coded in C for my first semester cse project.</br>
+Requirements :</br>
 
 <p>
 In this project, the system has keep records of category, books name, author name, quantity,
