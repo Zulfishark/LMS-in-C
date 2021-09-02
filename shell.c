@@ -33,7 +33,7 @@ void welcomeMessage()
     printf("\n\t\t\t =                     LMS                   =");
     printf("\n\t\t\t =                     BY                    =");
     printf("\n\t\t\t =                Julfikar Sarker,           =");
-    printf("\n\t\t\t =                  &Mahia Mehrun             =");
+    printf("\n\t\t\t =                 &Mahia Mehrun             =");
     printf("\n\t\t\t =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
     printf("\n\n");
     // getch();
